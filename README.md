@@ -1,3 +1,8 @@
+# Running Ubbo's Example
+```
+python lmd.py --shape-predictor ../shape_predictor_68_face_landmarks.dat
+```
+
 # dlib C++ library [![Travis Status](https://travis-ci.org/davisking/dlib.svg?branch=master)](https://travis-ci.org/davisking/dlib)
 
 Dlib is a modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++ to solve real world problems. See [http://dlib.net](http://dlib.net) for the main project documentation and API reference.
