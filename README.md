@@ -1,5 +1,7 @@
 # Running Ubbo's Example
 ```
+wget https://github.com/davisking/dlib-models/raw/master/shape_predictor_68_face_landmarks.dat.bz2
+<extract> shape_predictor_68_face_landmarks.dat.bz2
 python lmd.py --shape-predictor ../shape_predictor_68_face_landmarks.dat
 ```
 
