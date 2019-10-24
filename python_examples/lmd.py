@@ -1,3 +1,4 @@
+# after Adrian Rosebrock https://www.pyimagesearch.com/2018/04/02/faster-facial-landmark-detector-with-dlib/
 # import the necessary packages
 from imutils.video import VideoStream
 from imutils import face_utils
